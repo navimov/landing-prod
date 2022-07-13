@@ -5,3 +5,7 @@
 #header-img {
     width: 50px;
 }
+#nav-bar    {
+    justify-content: space-around;
+    align-items: center;
+}

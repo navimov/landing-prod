@@ -13,9 +13,6 @@ background-color: var(--background-color);
     justify-content: space-between; 
     flex: 1, 3;  
 }
-#header-img {
-    width: 50px;
-}
 #nav-bar    {
     justify-content: space-around;
     align-items: center;

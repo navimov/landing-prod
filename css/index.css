@@ -2,8 +2,11 @@
 *   {
     font-family: 'Lato', sans-serif;
 }
+body    {
+background-color: var(--background-color);
+}
 :root   {
-    background: rgba(29, 71, 10, 0.733);
+    --background-color: rgba(29, 71, 10, 0.733);
 }
 .container  {
     display:flex;

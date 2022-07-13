@@ -3,7 +3,7 @@
     font-family: 'Lato', sans-serif;
 }
 :root   {
-    --background-color: rgba(29, 71, 10, 0.733);
+    background: rgba(29, 71, 10, 0.733);
 }
 .container  {
     display:flex;

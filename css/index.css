@@ -4,9 +4,12 @@
 }
 body    {
 background-color: var(--background-color);
+color:black;
+font-size: var(--font-size);
 }
 :root   {
     --background-color: rgba(29, 71, 10, 0.733);
+    --font-size: 14px;
 }
 .container  {
     display:flex;
